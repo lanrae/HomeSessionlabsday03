@@ -1,0 +1,24 @@
+{
+  "name": "missingnumberlab",
+  "version": "1.0.0",
+  "description": "Missing Number",
+  "main": "app/findmissing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanrae/Homesessionlabday03.git"
+  },
+  "keywords": [
+    "Find",
+    "Missing",
+    "Number"
+  ],
+  "author": "Fawaz Bello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanrae/Homesessionlabday03/issues"
+  },
+  "homepage": "https://github.com/lanrae/Homesessionlabday03#readme"
+}
